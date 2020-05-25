@@ -1,2 +1,2 @@
 # grandjunction
-A simple template flood model
+A basic template for risk based flood modeling
